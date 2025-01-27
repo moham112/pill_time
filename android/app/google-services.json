@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008777679414",
+    "project_id": "pill-time-93e76",
+    "storage_bucket": "pill-time-93e76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008777679414:android:241737e13d7f6f3539be97",
+        "android_client_info": {
+          "package_name": "com.example.pill_time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc785pdGurWCFjKtXFyfdZtu_9wIShblU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
