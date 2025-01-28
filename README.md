@@ -14,7 +14,7 @@ This is a **Medication Reminder App** designed to help patients remember their m
 
 ## Technologies Used
 
-- **Frontend:** Flutter (Provider, SharedPreferences, Localization)
+- **Frontend:** Flutter (Provider as state management)
 - **Backend:** Laravel (REST APIs, Notification System)
 - **Database:** MySQL
 - **Push Notifications:** Firebase Cloud Messaging (FCM)
@@ -22,10 +22,11 @@ This is a **Medication Reminder App** designed to help patients remember their m
 
 ## API Documentation
 
-Please look at the [API Documentation](https://documenter.getpostman.com/view/40495647/2sAYQghoVH) section for detailed API documentation.
+Please look at the [API Documentation](https://documenter.getpostman.com/view/40495647/2sAYQghoVH) (developed by me) section for detailed API documentation.
+The API base url 
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/medication-reminder-app.git
+   git clone https://github.com/moham112/pill_time.git
